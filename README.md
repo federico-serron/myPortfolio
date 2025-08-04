@@ -47,8 +47,6 @@ Más proyectos y código en mi GitHub: [github.com/fedesu](https://github.com/fe
 ---
 
 ## 📫 Contacto
-
-- Email: **fserron.dev@gmail.com**
 - LinkedIn: [linkedin.com/in/fedeserron](https://linkedin.com/in/fedeserron)
 - GitHub: [github.com/fedesu](https://github.com/fedesu)
 
